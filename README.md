@@ -1,2 +1,1 @@
 # frontsendbatumi
- # frontsendbatumi2
